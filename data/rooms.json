@@ -1,0 +1,13 @@
+[
+  {"nama": "B3A", "lantai": 3}, {"nama": "B3B", "lantai": 3}, {"nama": "B3C", "lantai": 3},
+  {"nama": "B3D", "lantai": 3}, {"nama": "B3E", "lantai": 3}, {"nama": "B3F", "lantai": 3},
+  {"nama": "B3G", "lantai": 3}, {"nama": "B3H", "lantai": 3},
+  
+  {"nama": "B4A", "lantai": 4}, {"nama": "B4B", "lantai": 4}, {"nama": "B4C", "lantai": 4},
+  {"nama": "B4D", "lantai": 4}, {"nama": "B4E", "lantai": 4}, {"nama": "B4F", "lantai": 4},
+  {"nama": "B4G", "lantai": 4}, {"nama": "B4H", "lantai": 4},
+  
+  {"nama": "B5A", "lantai": 5}, {"nama": "B5B", "lantai": 5}, {"nama": "B5C", "lantai": 5},
+  {"nama": "B5D", "lantai": 5}, {"nama": "B5E", "lantai": 5}, {"nama": "B5F", "lantai": 5},
+  {"nama": "B5G", "lantai": 5}, {"nama": "B5H", "lantai": 5}
+]
